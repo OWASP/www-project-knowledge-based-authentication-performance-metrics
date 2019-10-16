@@ -4,6 +4,7 @@ layout: col-sidebar
 title: OWASP knowledge based authentication performance metrics
 tags: example-tag
 level: 4
+type: documentation
 
 ---
 
